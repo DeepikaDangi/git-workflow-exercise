@@ -7,4 +7,4 @@ git add .
 git commit -m 'message'
 
 # push changes
-git push  -origin -main
+git push -u -origin
